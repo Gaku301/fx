@@ -45,6 +45,6 @@ for i in range(2,len(data17)):
 
 plt.style.use('seaborn-darkgrid')
 plt.plot(data17['Close'])
-plt.ylim([95,125]
+plt.ylim([95,125])
 plt.show()
 
